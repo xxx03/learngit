@@ -5,3 +5,5 @@ test hhhhh~
 Git has a mutable index called stage.
 Git trackes changes.
 hhhh again!
+
+Now I have a new repo on Github.
